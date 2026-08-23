@@ -3,4 +3,15 @@
 
 This is the first project from **The Odin Project's** *Foundations Course*. The goal of this project is to build a basic recipe website to practice and demonstrate fundamental HTML skills.
 
-The website will consist of a main index page which will have links to a few recipes. 
+The website will consist of a main index page which will have links to a few recipes. It demonstrates the ability to structure a web page properly using semantic HTML.
+
+[View Live Project](https://cocoaglow-3319.github.io/odin-recipes/)
+
+#### Features & Skills Learned
+
+*   Setting up a local repository and linking it to GitHub.
+*   Using headings (`<h1>`, `<h2>`) for content hierarchy.
+*   Structuring text with paragraphs (`<p>`), bolding (`<strong>`), and italics (`<em>`).
+*   Creating ordered (`<ol>`) and unordered (`<ul>`) lists for steps and ingredients.
+*   Managing file paths to link multiple pages together.
+*   Displaying images using proper attributes.
